@@ -13,3 +13,8 @@ https://preview.keenthemes.com/metronic-v4/theme/admin_4/ui_icons.html
 https://preview.keenthemes.com/metronic/demo1/features/icons/custom-icons.html
 
 https://preview.keenthemes.com/metronic8/react/docs/docs/icons/duotune
+
+
+https://remixicon.com/
+
+https://fontello.com/

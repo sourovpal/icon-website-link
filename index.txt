@@ -18,3 +18,5 @@ https://preview.keenthemes.com/metronic8/react/docs/docs/icons/duotune
 https://remixicon.com/
 
 https://fontello.com/
+
+https://dashlite.net/demo6/components/misc/nioicon.html
